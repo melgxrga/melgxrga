@@ -17,7 +17,7 @@
 
 ---
 
-- 👨‍💻 Estudiante de tercer año de Ingenieria en Ciencias Y Sistemas
+- 👨‍💻 Estudiante de quinto año de Ingenieria en Ciencias Y Sistemas
 
 ## 🛠 &nbsp;Tech Stack
 
